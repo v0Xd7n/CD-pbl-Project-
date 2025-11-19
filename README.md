@@ -4,7 +4,6 @@
 
 ![C++](https://img.shields.io/badge/C++-11-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 **A professional lexical analyzer supporting 5+ programming languages with advanced features**
