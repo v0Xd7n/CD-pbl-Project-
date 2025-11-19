@@ -55,6 +55,15 @@ The **Advanced Multi-Language Lexical Analyzer** is a comprehensive compiler fro
 ### Prerequisites
 - C++11 compatible compiler (GCC, Clang, MSVC)
 - Standard C++ libraries
+SAMPLE IMAGES 
+<img width="811" height="651" alt="image" src="https://github.com/user-attachments/assets/0dbf3e21-064c-4049-bb97-16976e7f4dc1" />
+
+SAMPLE VIDEO 
+
+
+
+https://github.com/user-attachments/assets/8b1aca49-c9b3-4191-844a-89c0d00a7221
+
 
 ### Compilation
 ```bash
